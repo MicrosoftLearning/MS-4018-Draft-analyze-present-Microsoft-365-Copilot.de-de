@@ -6,12 +6,12 @@ Stellen Sie sich vor, Sie arbeiten im Management bei Contoso. Ihr Team basiert a
 
 1. Öffnen Sie Microsoft Teams, indem Sie zu der folgenden URL navigieren: [https://teams.microsoft.com](https://teams.microsoft.com).
 
-1. Erstellen Sie zunächst einen neuen Kanal im Chat Ihres Teams für diese Unterhaltung. Wählen Sie **Neuer Kanal** aus dem Chat-Dropdownmenü.
+1. Um zu beginnen, erstellen Sie ein neues Team im Chat Ihres Teams für diese Unterhaltung. Wählen Sie **Neues Team** aus dem Chat-Dropdownmenü aus.
 
-    - Fügen Sie den Kanal zu einem Team hinzu: **Menschen & Kultur**
-    - Kanalname: +++Contoso Connect+++
+    - Fügen Sie das folgende Team hinzu: +++Personen und Kultur+++
     - Beschreibung: Lassen Sie dieses Feld frei.
-    - Kanaltyp: **Privat**
+    - Teamtyp: **Privat**
+    - Kanalname: +++Contoso Connect+++
     - Mitglieder hinzufügen: Wählen Sie **Überspringen**
 
 1. Wählen Sie **Einen Beitrag starten**, um das Chat-Fenster zu öffnen.

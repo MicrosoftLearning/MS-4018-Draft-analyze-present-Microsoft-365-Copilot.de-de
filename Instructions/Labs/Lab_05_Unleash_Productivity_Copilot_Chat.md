@@ -49,7 +49,7 @@ Nachdem Sie nun eine Vorstellung von möglichen Fragen haben, können Sie über 
 
 1. In demselben Copilot Chat fordern Sie Copilot Folgendes auf:
 
-    +++Entwürfe für Antworten auf die folgenden Fragen: [Fragenkatalog].+++
+    +++Entwerfe Antworten auf die folgenden Fragen: [Kopieren Sie die Liste der Fragen und fügen Sie sie hier ein].+++
 
     Da Copilot Chat eine iterative Erfahrung ist, berücksichtigt es den Kontext früherer Chat-Interaktionen im selben Fenster.
 
@@ -59,17 +59,21 @@ Nachdem Sie nun eine Vorstellung von möglichen Fragen haben, können Sie über 
 
 Diese Antworten sind großartig, und Sie sind auf Ihr Vorstellungsgespräch vorbereitet. Lassen Sie uns nun eine einzige Quelle der Wahrheit erstellen, auf die wir zu einem späteren Zeitpunkt zurückgreifen können. Verwenden Sie Copilot in Word, um die Fragen und Antworten in einem FAQ-Dokument zusammenzufassen.
 
-1. Öffnen Sie Microsoft Word und erstellen Sie ein neues Dokument.
+1. In demselben Copilot Chat-Fenster fordern Sie Copilot Folgendes auf: 
 
-1. Klicken Sie auf das Copilot-Symbol im Start-Menüband. Der Bereich „Copilot“ wird auf der rechten Seite des Bildschirms geöffnet.
+    +++Erstellen Sie ein Word-Dokument mit dieser Ausgabe.+++
 
-1. Geben Sie den folgenden Prompt ein:
+    Copilot generiert ein neues Word-Dokument mit dem Titel **FAQ-Dokument**.
 
-    +++Erstelle ein FAQ-Dokument mit den folgenden Fragen und Antworten: [kopierte Liste der Fragen und Antworten aus dem Copilot-Chat].+++
+1. Öffnen Sie dieses Dokument, um es zu überprüfen.
 
-1. Überprüfen und formatieren Sie das Dokument nach Bedarf.
+1. Aktivieren Sie die Bearbeitung, um das Dokument nach Bedarf zu überprüfen und zu speichern. 
 
-#### Übung 6: Senden einer Dankes-E-Mail mit Copilot in Outlook
+1. Wählen Sie **Datei > Speichern unter** aus. Navigieren Sie zu Ihrem OneDrive-Ordner.
+
+1. Speichern Sie das Dokument als **FAQ-Dokument**.
+   
+#### (Optional) Übung 6: Senden einer Dankes-E-Mail mit Copilot in Outlook
 
 1. Öffnen Sie Outlook und klicken Sie auf die Schaltfläche **Neue E-Mail**, um mit dem Verfassen Ihres Dankesschreibens zu beginnen.
 

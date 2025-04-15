@@ -26,6 +26,8 @@ Um sich ein Bild von den Markttrends machen zu können, müssen Sie zunächst di
 
 1. Wählen Sie **Zu einem neuen Blatt hinzufügen**, um diese Daten in Ihre Excel-Arbeitsmappe aufzunehmen.
 
+1. Überprüfen Sie die Tabelle. Wenn Sie fertig sind, wählen Sie **Zurück zu den Daten**, um zu Blatt 1 zurückzukehren.
+
 #### Übung 2: Identifizieren von Umsatztrends
 
 In der Vertriebsleitung müssen Sie Trends in den Verkaufsdaten erkennen, um fundierte Entscheidungen treffen zu können. Lassen Sie uns die Gesamtverkäufe von Chai im Laufe des Jahres betrachten und nach Mustern oder Trends suchen, die zur Verbesserung der Verkaufsstrategien beitragen können.
@@ -38,6 +40,8 @@ In der Vertriebsleitung müssen Sie Trends in den Verkaufsdaten erkennen, um fun
 
 1. Überprüfen Sie die Antwort von Copilot und fügen Sie das PivotChart zu einem neuen Blatt hinzu, wenn Sie möchten.
 
+1. Wenn Sie einen neuen PivotChart hinzugefügt haben, wählen Sie **Zurück zu den Daten**, um zu Blatt 1 zurückzukehren.
+   
 1. Um einen schnellen Überblick über die Monate mit den erfolgreichsten Verkäufen zu erhalten, geben Sie den folgenden Prompt ein:
 
     +++Markiere die drei Monate mit dem höchsten Gesamtumsatz.+++
@@ -56,9 +60,11 @@ Um Ihr Produktangebot zu optimieren, müssen Sie die Verkaufszahlen verschiedene
 
 1. Copilot zeigt das Balkendiagramm an. Wählen Sie **Einem neuen Blatt hinzufügen**.
 
-    In den Sommermonaten kann es zu starken Schwankungen bei den Verkaufszahlen kommen. Um zu verstehen, welche Teesorte sich am besten verkauft, können Sie Copilot bitten, die Produktkategorie zu ermitteln, die insgesamt besser abgeschnitten hat, indem Sie den folgenden Prompt eingeben:
+1. Sobald Sie die Ergebnisse des Balkendiagramms überprüft haben, wählen Sie **Zurück zu den Daten** aus, um zu Blatt 1 zurückzukehren.
+   
+In den Sommermonaten kann es zu starken Schwankungen bei den Verkaufszahlen kommen. Um zu verstehen, welche Teesorte sich am besten verkauft, können Sie Copilot bitten, die Produktkategorie zu ermitteln, die insgesamt besser abgeschnitten hat, indem Sie den folgenden Prompt eingeben:
 
-    +++Fasse den Gesamtumsatz (Einheiten) für handgefertigten Chai und vorgefertigten Chai im Sommer zusammen.+++
+    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
 #### Übung 4: Berechnen des Gesamtumsatzes
 
@@ -92,13 +98,13 @@ Lassen Sie uns abschließend die wichtigsten Erkenntnisse aus Ihrer Analyse zusa
 
 1. Geben Sie im geöffneten Copilot-Bereich den folgenden Prompt ein:
 
-    +++ Fasse die wichtigsten Erkenntnisse aus der Analyse der Markttrenddaten von Contoso Chai Tea zusammen.+++
+    +++Fasse die wichtigsten Erkenntnisse aus der Analyse der Markttrenddaten von Contoso Chai Tea zusammen.+++
 
 #### Übung 7: Übermitteln Ihrer Erkenntnisse an das Team
 
 Sobald Sie Erkenntnisse über Markttrends gesammelt haben, können Sie die Informationen mit Ihren Interessengruppen teilen. So kann Copilot in Outlook Ihnen helfen:
 
-1. **Kopieren Sie** die von Copilot generierte Antwort in Excel.
+1. **Kopieren** Sie die von Copilot generierte Textantwort in Excel.
 
 1. Öffnen Sie Microsoft Outlook und wählen Sie **Neue E-Mail**.
 

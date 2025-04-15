@@ -11,7 +11,7 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Übung 1 – Importieren von Notizen (optional)
+#### Übung 1 (optional): Importieren von Notizen 
 
 1. Öffnen Sie Microsoft Word und erstellen Sie ein neues Dokument.
 
@@ -40,8 +40,10 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Geben Sie den folgenden Prompt ein:
 
-    +++Erstelle einen Projektbericht auf der Grundlage des Inhalts in /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Füge eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion hinzu.+++
+    +++Erstelle einen Projektbericht, der eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion enthält. Verwende das verlinkte Dokument als Inhaltsressource. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
 
+1. Fügen Sie die Dokumentreferenz zu Ihrem Prompt hinzu, indem Sie manuell einen Schrägstrich gefolgt vom Dokumentnamen eingeben: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternativ können Sie die Datei aus der Dropdownliste auswählen, sobald sie in OneDrive verfügbar ist.
+   
 1. Überprüfen Sie den Entwurf und wählen Sie **Behalten**.
 
 1. Während Sie den Inhalt Ihres Dokuments überprüfen, stellen Sie möglicherweise fest, dass einige Texte bearbeitet oder neu geschrieben werden müssen. Der Abschnitt „Produktbeschreibung“ scheint ziemlich kurz und technisch zu sein. Lassen Sie uns den Text so bearbeiten, dass er für unsere Lesenden ansprechender ist.
@@ -91,7 +93,7 @@ Wenn Sie Ihr Dokument vervollständigen, sollten Sie darauf achten, dass Ihre wi
 
     +++Fasse dieses Dokument zusammen. Hebe die drei wichtigsten Punkte hervor.+++
 
-1. Überprüfen Sie die generierte Zusammenfassung und wählen Sie **Einfügen**, wenn Sie die Zusammenfassung in Ihr Dokument aufnehmen möchten.
+1. Überprüfen Sie die generierte Zusammenfassung und wählen Sie **Einfügen**, wenn Sie die Zusammenfassung in Ihr Dokument aufnehmen möchten. Sie können auch einen beliebigen Teil des Texts hervorheben und dann kopieren und in Ihr Dokument einfügen.
 
 > [!IMPORTANT]
 > Der von Copilot generierte Text wird an der Position des Cursors in das Dokument eingefügt. Stellen Sie sicher, dass Sie bis zum Ende des Dokuments navigiert haben, bevor Sie den Inhalt einfügen.
