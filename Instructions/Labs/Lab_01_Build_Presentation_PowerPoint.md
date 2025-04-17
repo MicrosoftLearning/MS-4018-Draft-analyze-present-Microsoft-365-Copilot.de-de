@@ -12,15 +12,15 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 #### Übung 1: Erstellen einer neuen Präsentation auf der Grundlage eines Word-Dokuments
 
-1. Öffnen Sie PowerPoint und starten Sie eine neue Präsentation.
+1. Öffnen Sie PowerPoint über die Desktopanwendung oder über Ihren Browser unter [powerpoint.new](https://powerpoint.new) und starten Sie eine neue Präsentation.
 
 1. Klicken Sie auf das **Copilot**-Symbol und verwenden Sie Copilot, um mithilfe des folgenden Prompts einen Präsentationsentwurf zu erstellen:
 
-    +++Erstelle eine Präsentation über den Chai-Tee von Contoso, basierend auf +++
+    +++Erstellen Sie eine Präsentation über den Chai-Tee von Contoso, basierend auf +++
 
-1. Geben Sie im Prompt-Dialogfeld einen Schrägstrich (/) gefolgt vom Namen der Datei ein **(Promotion Plan for Chai Tea in Latin America.docx)**. Wenn die Datei nicht in der Liste angezeigt wird, wählen Sie den Pfeil nach oben und dann **Cloud-Dateien anhängen** aus. Navigieren Sie zu **Meine Dateien**, und wählen Sie das Dokument aus Ihrem OneDrive-Ordner aus.
+1. Geben Sie im Prompt-Dialogfeld einen Schrägstrich (/) gefolgt vom Namen der Datei ein **(Promotion Plan for Chai Tea in Latin America.docx)**. Wenn die Datei nicht in der Liste erscheint, wählen Sie die Plus-Taste und dann **Anhängen**. Navigieren Sie zu **Meine Dateien**, und wählen Sie das Dokument aus Ihrem OneDrive-Ordner aus.
    
-1. Copilot zeigt eine Präsentationsgliederung an, die die möglichen Folien und Aufzählungspunkte anzeigt, die auf jeder Folie enthalten sein sollen. Sehen Sie sich das vorgeschlagene Thema an und wählen Sie **Folien erstellen**, um fortzufahren. Copilot erstellt Folien und Inhalte für jeden. Die Ergebnisse werden in der Ansicht **Slide Sorter** angezeigt.
+1. Copilot zeigt eine Präsentationsgliederung an, die die möglichen Folien und Aufzählungspunkte anzeigt, die auf jeder Folie enthalten sein sollen. Sehen Sie sich das vorgeschlagene Thema an und wählen Sie **Folien erstellen**, um fortzufahren. Copilot erstellt Folien und Inhalte für jeden. Die Präsentation kann Ergebnisse entweder in der **Slide Sorter** oder **Normal** Ansicht anzeigen.
 
 1. Sehen Sie sich die Folien an und wählen Sie **Behalten**, um fortzufahren.
 
@@ -30,7 +30,7 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 Da diese Präsentation sowohl persönlich als auch virtuell gehalten wird, geben wir unserem Publikum ein paar Minuten Zeit, um sich anzuschließen, ohne dass es wichtige Informationen verpasst. Copilot kann dabei helfen, eine Idee und dann eine Folie für einen unterhaltsamen Eisbrecher zu erstellen, um unser Publikum zu beschäftigen, während andere dazukommen.
 
-1. Lassen Sie uns zunächst die Ansicht in PowerPoint ändern. Wählen Sie **Ansicht > Normal**.
+1. Ändern wir zunächst die Ansicht in PowerPoint, falls erforderlich. Wählen Sie **Ansicht > Normal**.
 
 1. Kehren Sie zur Ansicht mit dem **Startseiten**-Menüband zurück.
 
@@ -52,7 +52,7 @@ Da diese Präsentation sowohl persönlich als auch virtuell gehalten wird, geben
 
 Copilot fügt zwar Bilder hinzu, während es Folien erstellt, aber vielleicht möchten Sie ein Bild hinzufügen oder bearbeiten, um Ihre Präsentation zu verfeinern. Sie können Copilot bitten, ein Bild aus Ihrer genehmigten Unternehmensbibliothek hinzuzufügen, vorausgesetzt, Ihr Admin hat die entsprechenden Konfigurationen vorgenommen, oder ein Bild basierend auf einer Ihrer Ideen generieren.
 
-1. Lassen Sie uns Copilot bitten, ein Diagramm in die Titelfolie einzufügen.
+1. Bitten wir Copilot, ein Diagramm auf der Titelfolie einzufügen.
 
 1. Navigieren Sie zur Titelseite, die Copilot erstellt hat.
 
@@ -91,7 +91,7 @@ Wenn Sie die Präsentation durchgehen, stellen Sie möglicherweise fest, dass di
 
     +++Organisiere diese Präsentation+++
 
-1. Copilot antwortet und gibt an, dass das Organisieren der Folien vorhandene Abschnitte ersetzt. Wählen Sie **Ja, bitte**, um fortzufahren.
+1. Copilot antwortet und macht Vorschläge für jede Folie. Sie können den Inhalt nach Belieben aktualisieren oder Ihre Eingabeaufforderung wiederholen, um weitere Vorschläge zu erhalten. 
 
 1. Achten Sie darauf, dass Ihre Präsentation eine logische Abfolge und fließende Übergänge zwischen den Folien aufweist.
 
@@ -99,17 +99,17 @@ Wenn Sie die Präsentation durchgehen, stellen Sie möglicherweise fest, dass di
 
 Wenn Sie mit Ihrer Präsentation zufrieden sind, verwenden Sie Copilot in Outlook, um eine E-Mail an Ihre Vorgesetzten zur Überprüfung zu verfassen.
 
-1. Navigieren Sie zu Outlook und wählen Sie **Neue E-Mail**.
+1. Starten Sie Microsoft Outlook über Ihren Browser [outlook.office.com](https://outlook.office.com) oder Ihre Desktop-Anwendung und wählen Sie **Neue E-Mail**.
 
 1. Wählen Sie das Symbol **Copilot** im E-Mail-Erstellungsfenster aus.
 
 1. Geben Sie den folgenden Prompt ein:
 
-    +++Verfasse eine E-Mail an meinen Vorgesetzten, [Name des Vorgesetzten]. Bitte um eine Bewertung der Präsentation, die ich dieser E-Mail beigefügt habe. Schreibe diese E-Mail in einem lockeren Ton.+++
+    +++Verfassen Sie eine E-Mail, in der Sie um eine Bewertung der Präsentation bitten, die ich dieser E-Mail beigefügt habe. Schreibe diese E-Mail in einem lockeren Ton.+++
 
 1. Wählen Sie **Entwurf mit Copilot**.
 
-1. Überprüfen Sie den E-Mail-Entwurf, nehmen Sie alle erforderlichen Änderungen vor, und senden Sie ihn.
+1. Überprüfen Sie den E-Mail-Entwurf, nehmen Sie die erforderlichen Änderungen vor und senden Sie ihn an die gewünschte empfangende Person.
 
 Und genau so sind Sie bereit, Ihren Vorgesetzten mit einer ansprechenden Präsentation zu beeindrucken! Viel Spaß beim Präsentieren.
 

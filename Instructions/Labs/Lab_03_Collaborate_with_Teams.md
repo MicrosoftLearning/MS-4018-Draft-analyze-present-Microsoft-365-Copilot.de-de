@@ -4,7 +4,7 @@ Stellen Sie sich vor, Sie arbeiten im Management bei Contoso. Ihr Team basiert a
 
 #### Übung 1: Schreiben einer ansprechenden Nachricht, um Ihre Idee vorzustellen
 
-1. Öffnen Sie Microsoft Teams, indem Sie zu der folgenden URL navigieren: [https://teams.microsoft.com](https://teams.microsoft.com).
+1. Öffnen Sie Microsoft Teams, indem Sie zur folgenden URL navigieren: [teams.microsoft.com](https://teams.microsoft.com) oder über die Desktop-Anwendung.
 
 1. Um zu beginnen, erstellen Sie ein neues Team im Chat Ihres Teams für diese Unterhaltung. Wählen Sie **Neues Team** aus dem Chat-Dropdownmenü aus.
 
@@ -16,9 +16,9 @@ Stellen Sie sich vor, Sie arbeiten im Management bei Contoso. Ihr Team basiert a
 
 1. Wählen Sie **Einen Beitrag starten**, um das Chat-Fenster zu öffnen.
 
-1. Schreiben Sie Ihre Nachricht im Feld am unteren Rand des Chats oder Kanals. Geben Sie Folgendes ein: +++Hallo Team! Ich habe über Contoso Connect nachgedacht und darüber, wie wir die Produkteinführung für unsere Kundschaft noch spannender gestalten können. Ich habe ein paar Ideen und möchte von jedem von euch mehr hören. Was würde unsere Kundschaft eurer Meinung nach dazu bringen, sich für eine Zusammenarbeit mit Connect zu begeistern?
+1. Schreiben Sie Ihre Nachricht im Feld am unteren Rand des Chats oder Kanals. Kopieren Sie die folgende Eingabeaufforderung und fügen Sie sie in Ihr Copilot-Eingabeaufforderungsdialogfeld ein: Hallo Team! Ich habe über Contoso Connect nachgedacht und darüber, wie wir die Produkteinführung für unsere Kundschaft noch spannender gestalten können. Ich habe ein paar Ideen und möchte von jedem von euch mehr hören. Was würde unsere Kundschaft eurer Meinung nach dazu bringen, sich für eine Zusammenarbeit mit Connect zu begeistern?
 
-1. Wählen Sie das Symbol **Mit Copilot neu schreiben** unten im Nachrichtenfeld aus.
+1. Bevor Sie die Nachricht posten, wählen Sie das Symbol **Umschreiben mit Copilot** am unteren Rand des Nachrichtenfeldes.
 
 1. Wählen Sie die Option **Umschreiben**, um eine andere Version Ihrer Nachricht zu erstellen, die in Bezug auf Grammatik und Stil verbessert wurde. Sie können Ihre Nachricht bei jeder Generierung einer neuen Version bis zu 10 Mal neu schreiben. Verwenden Sie die Pfeile nach links und rechts unter dem Text, um durch die Versionen zu navigieren.
 
@@ -38,7 +38,7 @@ Das Team erhält Ihre Nachricht und freut sich, mitzuwirken! Jeder trägt Ideen 
 
 Sie möchten jetzt eine Besprechung planen, um Feedback mit Ihrem Team zu brainstormen. Sie können Copilot in Outlook verwenden, um die beste Zeit basierend auf der Verfügbarkeit Ihres Teams zu finden und den Text der Einladung zur Besprechung zu entwerfen, der die wichtigsten Punkte enthält, die Sie Copilot zur Beantwortung aus Ihrem Besprechungschat eingegeben haben.
 
-1. Öffnen Sie Microsoft Outlook, indem Sie zu der folgenden URL navigieren: [https://outlook.office.com](https://outlook.office.com).
+1. Öffnen Sie Microsoft Outlook über Ihren Browser [outlook.office.com](https://outlook.office.com) oder Ihre Desktop-Anwendung.
 
 1. Klicken Sie auf das Symbol **Copilot** im **Startseiten**-Menüband, um den Bereich „Copilot“ zu öffnen.
 
@@ -54,7 +54,7 @@ Sie möchten jetzt eine Besprechung planen, um Feedback mit Ihrem Team zu brains
 
     +++um die bevorstehende Produkteinführung zu besprechen, den Projektzeitplan zu überprüfen und Aufgaben zuzuweisen.+++
 
-    Wählen Sie anschließend **Senden** oder drücken Sie die Eingabetaste auf Ihrer Tastatur.
+    Wählen Sie anschließend **Generieren** oder drücken Sie die Eingabetaste auf Ihrer Tastatur.
 
 1. Copilot erstellt einen Entwurf der Besprechungseinladung. Prüfen Sie den Vorschlag, aber wählen Sie nicht **Behalten**. Geben Sie stattdessen den folgenden Prompt ein:
 

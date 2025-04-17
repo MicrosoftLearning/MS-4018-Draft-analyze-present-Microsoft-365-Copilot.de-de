@@ -14,7 +14,7 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 Um sich ein Bild von den Markttrends machen zu können, müssen Sie zunächst die Gesamtleistung der Chai-Produkte von Contoso verstehen. Der erste Schritt besteht darin, sich einen Überblick über die Daten zu verschaffen und die wichtigsten Kennzahlen zu ermitteln, die als Grundlage für Ihre Analyse dienen können.
 
-1. Öffnen Sie die heruntergeladene Beispieldatei.
+1. Öffnen Sie die Beispieldatei, die Sie von Ihrem OneDrive heruntergeladen haben.
 
 1. Klicken Sie auf das Symbol **Copilot** auf der **Startseite**, um den Bereich „Copilot“ zu öffnen.
 
@@ -40,7 +40,7 @@ In der Vertriebsleitung müssen Sie Trends in den Verkaufsdaten erkennen, um fun
 
 1. Überprüfen Sie die Antwort von Copilot und fügen Sie das PivotChart zu einem neuen Blatt hinzu, wenn Sie möchten.
 
-1. Wenn Sie einen neuen PivotChart hinzugefügt haben, wählen Sie **Zurück zu den Daten**, um zu Blatt 1 zurückzukehren.
+1. Wenn Sie ein neues PivotChart hinzugefügt haben, überprüfen Sie das Diagramm und wählen Sie **Zurück zu Daten**, um zu Blatt 1 zurückzukehren.
    
 1. Um einen schnellen Überblick über die Monate mit den erfolgreichsten Verkäufen zu erhalten, geben Sie den folgenden Prompt ein:
 
@@ -64,7 +64,7 @@ Um Ihr Produktangebot zu optimieren, müssen Sie die Verkaufszahlen verschiedene
    
 In den Sommermonaten kann es zu starken Schwankungen bei den Verkaufszahlen kommen. Um zu verstehen, welche Teesorte sich am besten verkauft, können Sie Copilot bitten, die Produktkategorie zu ermitteln, die insgesamt besser abgeschnitten hat, indem Sie den folgenden Prompt eingeben:
 
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+   +++Fasse den Gesamtumsatz (Einheiten) für handgefertigten Chai und vorgefertigten Chai im Sommer zusammen.+++
 
 #### Übung 4: Berechnen des Gesamtumsatzes
 

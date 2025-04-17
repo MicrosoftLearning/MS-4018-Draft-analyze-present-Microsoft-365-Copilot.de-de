@@ -9,7 +9,9 @@ Stellen Sie sich vor, Sie bewerben sich um eine Stelle bei Contoso, einem mittel
 
 Nutzen Sie Copilot Chat in Teams, um einige Erkenntnisse über die Gesprächsleitenden und deren Rolle zu gewinnen. Diese Recherche hilft Ihnen, ein besseres Gefühl dafür zu bekommen, mit wem Sie sprechen werden und welche Aufgaben diese haben. Es ist immer gut, ein wenig über die Person auf der anderen Seite des Tisches zu wissen!
 
-1. Öffnen Sie Microsoft Teams und wählen Sie das Symbol „Copilot Chat“ auf der linken Seite des Bildschirms aus.
+1.  Öffnen Sie Microsoft Teams, indem Sie zur folgenden URL navigieren: [teams.microsoft.com](https://teams.microsoft.com) oder über die Desktop-Anwendung.
+
+1.  Wählen Sie das Copilot-Chat-Symbol auf der linken Seite des Bildschirms.
 
 1. Vergewissern Sie sich, dass der Schalter am oberen Bildschirmrand auf **Web** festgelegt ist.
 
@@ -57,7 +59,7 @@ Nachdem Sie nun eine Vorstellung von möglichen Fragen haben, können Sie über 
 
 #### Übung 5: Erstellen eines FAQ-Dokuments
 
-Diese Antworten sind großartig, und Sie sind auf Ihr Vorstellungsgespräch vorbereitet. Lassen Sie uns nun eine einzige Quelle der Wahrheit erstellen, auf die wir zu einem späteren Zeitpunkt zurückgreifen können. Verwenden Sie Copilot in Word, um die Fragen und Antworten in einem FAQ-Dokument zusammenzufassen.
+Diese Antworten sind großartig, und Sie sind auf Ihr Vorstellungsgespräch vorbereitet. Lassen Sie uns nun eine einzige Quelle der Wahrheit erstellen, auf die wir zu einem späteren Zeitpunkt zurückgreifen können. Verwenden Sie Copilot, um die Fragen und Antworten in einem FAQ-Word-Dokument zusammenzustellen.
 
 1. In demselben Copilot Chat-Fenster fordern Sie Copilot Folgendes auf: 
 

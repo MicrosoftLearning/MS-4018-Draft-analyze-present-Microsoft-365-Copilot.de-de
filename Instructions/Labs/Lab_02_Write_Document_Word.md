@@ -13,7 +13,7 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 #### Übung 1 (optional): Importieren von Notizen 
 
-1. Öffnen Sie Microsoft Word und erstellen Sie ein neues Dokument.
+1. Öffnen Sie Microsoft Word über Ihren Browser [word.new](https://word.new) oder verwenden Sie die Desktop-Anwendung und erstellen Sie ein neues Dokument.
 
 1. Aktivieren Sie Copilot, indem Sie auf der Registerkarte **Startseite** die Schaltfläche „Copilot“ auswählen.
 
@@ -40,10 +40,12 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Geben Sie den folgenden Prompt ein:
 
-    +++Erstelle einen Projektbericht, der eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion enthält. Verwende das verlinkte Dokument als Inhaltsressource. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
+    +++Erstelle einen Projektbericht, der eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion enthält. Verwenden Sie das verknüpfte Dokument als Inhaltsressource.
 
-1. Fügen Sie die Dokumentreferenz zu Ihrem Prompt hinzu, indem Sie manuell einen Schrägstrich gefolgt vom Dokumentnamen eingeben: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternativ können Sie die Datei aus der Dropdownliste auswählen, sobald sie in OneDrive verfügbar ist.
+1. Fügen Sie die Dokumentreferenz zu Ihrem Prompt hinzu, indem Sie manuell einen Schrägstrich gefolgt vom Dokumentnamen eingeben: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternativ können Sie **Verweis auf eine Datei** und die Datei aus der Dropdownliste auswählen, sobald sie in OneDrive verfügbar ist.
    
+1. Wählen Sie **Generieren** aus.
+
 1. Überprüfen Sie den Entwurf und wählen Sie **Behalten**.
 
 1. Während Sie den Inhalt Ihres Dokuments überprüfen, stellen Sie möglicherweise fest, dass einige Texte bearbeitet oder neu geschrieben werden müssen. Der Abschnitt „Produktbeschreibung“ scheint ziemlich kurz und technisch zu sein. Lassen Sie uns den Text so bearbeiten, dass er für unsere Lesenden ansprechender ist.
@@ -89,11 +91,11 @@ Sehen wir uns diese Transformation in Aktion an.
 
 Wenn Sie Ihr Dokument vervollständigen, sollten Sie darauf achten, dass Ihre wichtigsten Punkte klar und deutlich dargestellt werden. Dies ist eine gute Möglichkeit, eine Zusammenfassung des Dokuments anzuzeigen. Auch wenn Sie ein umfangreiches Word-Dokument erhalten, für das Sie keine Zeit haben, es vollständig zu lesen, ist die Zusammenfassungsfunktion von entscheidender Bedeutung. Erstellen wir am Ende unseres Dokuments eine Zusammenfassung.
 
-1. Geben Sie im Copilot-Bereich die folgende Eingabeaufforderung ein:
+1. Öffnen Sie den Copilot-Bereich und geben Sie den folgenden Prompt ein:
 
     +++Fasse dieses Dokument zusammen. Hebe die drei wichtigsten Punkte hervor.+++
 
-1. Überprüfen Sie die generierte Zusammenfassung und wählen Sie **Einfügen**, wenn Sie die Zusammenfassung in Ihr Dokument aufnehmen möchten. Sie können auch einen beliebigen Teil des Texts hervorheben und dann kopieren und in Ihr Dokument einfügen.
+1. Überprüfen Sie die erstellte Zusammenfassung und wählen Sie **Einfügen**, wenn Sie die gesamte Zusammenfassung in Ihr Dokument aufnehmen möchten. Sie können auch einen beliebigen Teil des Texts hervorheben und dann kopieren und in Ihr Dokument einfügen.
 
 > [!IMPORTANT]
 > Der von Copilot generierte Text wird an der Position des Cursors in das Dokument eingefügt. Stellen Sie sicher, dass Sie bis zum Ende des Dokuments navigiert haben, bevor Sie den Inhalt einfügen.
