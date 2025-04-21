@@ -24,11 +24,11 @@ Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **One
 
 6. Öffnen Sie Ihren OneDrive-Ordner.
    
-7. In einer neuen Instanz von **Datei-Explorer** wählen Sie **Dieser PC** > **Lokaler Datenträger (C:)** und öffnen den Ordner **ResourceFiles**.
+7. In einer neuen Instanz von **Datei-Explorer** wählen Sie **Dieser PC** > **Lokaler Datenträger (C:)** und öffnen den Ordner **MS-4018 ResourceFiles**.
 
-8. Wählen Sie alle Dateien im Ordner **ResourceFiles** aus und ziehen Sie sie dann per Drag & Drop in Ihren OneDrive-Ordner.
+8. Wählen Sie alle Dateien im Ordner **MS-4018 ResourceFiles** aus und ziehen Sie sie dann per Drag & Drop in Ihren OneDrive-Ordner.
 
-9. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **29 Elemente in Meine Dateien hochgeladen** sehen.
+9. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **3 Elemente in „Meine Dateien“ hochgeladen** sehen.
 
 
 ### Verweisen auf Dateien
