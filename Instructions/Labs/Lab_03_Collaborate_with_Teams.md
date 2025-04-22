@@ -16,7 +16,7 @@ Stellen Sie sich vor, Sie arbeiten im Management bei Contoso. Ihr Team basiert a
 
 1. Wählen Sie **Einen Beitrag starten**, um das Chat-Fenster zu öffnen.
 
-1. Schreiben Sie Ihre Nachricht im Feld am unteren Rand des Chats oder Kanals. Kopieren Sie die folgende Eingabeaufforderung und fügen Sie sie in Ihr Copilot-Eingabeaufforderungsdialogfeld ein: Hallo Team! Ich habe über Contoso Connect nachgedacht und darüber, wie wir die Produkteinführung für unsere Kundschaft noch spannender gestalten können. Ich habe ein paar Ideen und möchte von jedem von euch mehr hören. Was würde unsere Kundschaft eurer Meinung nach dazu bringen, sich für eine Zusammenarbeit mit Connect zu begeistern?
+1. Schreiben Sie Ihre Nachricht im Feld am unteren Rand des Chats oder Kanals. Kopieren Sie den folgenden Text und fügen Sie ihn in das Dialogfeld ein: Hallo Team! Ich habe über Contoso Connect nachgedacht und darüber, wie wir die Produkteinführung für unsere Kundschaft noch spannender gestalten können. Ich habe ein paar Ideen und möchte von jedem von euch mehr hören. Was würde unsere Kundschaft eurer Meinung nach dazu bringen, sich für eine Zusammenarbeit mit Connect zu begeistern?
 
 1. Bevor Sie die Nachricht posten, wählen Sie das Symbol **Umschreiben mit Copilot** am unteren Rand des Nachrichtenfeldes.
 

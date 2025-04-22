@@ -118,7 +118,7 @@ Sobald Sie Erkenntnisse über Markttrends gesammelt haben, können Sie die Infor
 
 1. Überprüfen Sie den von Copilot bereitgestellten Entwurf und wählen Sie **Ersetzen** aus, um den Inhalt in Ihre E-Mail aufzunehmen.
 
-1. Senden Sie die E-Mail an Ihre Stakeholder.
+Wenn Sie in Ihrer eigenen Umgebung arbeiten, würden Sie die E-Mail dann an Ihre Projektbeteiligten senden.
 
 Sie haben nun praktische Erfahrung mit der Verwendung von Copilot in Excel, um Markttrends zu analysieren, Muster zu erkennen und wertvolle Erkenntnisse aus Ihren Daten zu gewinnen. Probieren Sie weiterhin neue Eingabeaufforderungen in Ihren Excel-Dateien aus, um mehr Übung zu erhalten.
 

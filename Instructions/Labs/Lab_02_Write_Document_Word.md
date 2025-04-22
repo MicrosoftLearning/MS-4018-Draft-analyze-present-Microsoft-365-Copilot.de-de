@@ -11,26 +11,9 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Übung 1 (optional): Importieren von Notizen 
 
-1. Öffnen Sie Microsoft Word über Ihren Browser [word.new](https://word.new) oder verwenden Sie die Desktop-Anwendung und erstellen Sie ein neues Dokument.
 
-1. Aktivieren Sie Copilot, indem Sie auf der Registerkarte **Startseite** die Schaltfläche „Copilot“ auswählen.
-
-    > [!NOTE]
-    > Wenn Sie keine Notizen haben, die Sie importieren möchten, fahren Sie mit dem **Entwurf Ihres Inhalts** fort.
-
-1. Geben Sie im Copilot-Bereich die folgende Eingabeaufforderung ein:
-
-    +++Erstelle eine Aktualisierung des Projektberichts basierend auf den Notizen über Mystic Spice Premium Chai Tea in OneNote.+++
-
-    Copilot ruft die angeforderten Informationen aus OneNote ab und erstellt den Anfang des Berichts im Copilot-Bereich.
-
-1. Wählen Sie die Option **Einfügen**, um diesen Text in das Word-Dokument zu kopieren.
-
-Obwohl dies ein guter Anfang ist, wird das Präsentieren von Informationen auf der Grundlage von Notizen nicht funktionieren. Sehen wir uns an, wie Copilot in Word Ihnen dabei helfen kann, einen Bericht zu erstellen, der für Ihre Projektbeteiligten freigegeben werden kann.
-
-#### Übung 2: Entwurf Ihrer Inhalte
+#### Übung 1 – Entwurf Ihrer Inhalte
 
 Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse. Anschließend können wir diese Datei bearbeiten, um den Inhalt abzurufen, den wir für unseren Bericht benötigen.
 
@@ -40,7 +23,7 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Geben Sie den folgenden Prompt ein:
 
-    +++Erstelle einen Projektbericht, der eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion enthält. Verwenden Sie das verknüpfte Dokument als Inhaltsressource.
+    +++Erstellen Sie einen Projektbericht, der eine Zusammenfassung, eine Einführung, eine Produktbeschreibung, Projektziele und eine Diskussion enthält. Verwenden Sie das verknüpfte Dokument als Inhaltsressource.
 
 1. Fügen Sie die Dokumentreferenz zu Ihrem Prompt hinzu, indem Sie manuell einen Schrägstrich gefolgt vom Dokumentnamen eingeben: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternativ können Sie **Verweis auf eine Datei** und die Datei aus der Dropdownliste auswählen, sobald sie in OneDrive verfügbar ist.
    
@@ -65,7 +48,7 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Überprüfen Sie die umgeschriebenen Optionen, wählen Sie diejenige aus, die Sie am meisten bevorzugen, und wählen Sie **Ersetzen**.
 
-#### Übung 3: Konvertieren von Text in eine Tabelle
+#### Übung 2 – Konvertieren von Text in eine Tabelle
 
 Während der Inhalt in Ihrem Dokument möglicherweise korrekt ist, sollten Sie die Lesbarkeit berücksichtigen. Würde ein Abschnitt besser funktionieren, wenn er als Tabelle dargestellt werden würde? Copilot kann Text mit Hilfe eines Prompts leicht in eine Tabelle umwandeln.
 
@@ -87,7 +70,7 @@ Sehen wir uns diese Transformation in Aktion an.
 
 1. Überprüfen Sie das Tabellenformat, und nehmen Sie alle erforderlichen Anpassungen vor.
 
-#### Übung 4: Zusammenfassung Ihres Dokuments
+#### Übung 3 – Zusammenfassung Ihres Dokuments
 
 Wenn Sie Ihr Dokument vervollständigen, sollten Sie darauf achten, dass Ihre wichtigsten Punkte klar und deutlich dargestellt werden. Dies ist eine gute Möglichkeit, eine Zusammenfassung des Dokuments anzuzeigen. Auch wenn Sie ein umfangreiches Word-Dokument erhalten, für das Sie keine Zeit haben, es vollständig zu lesen, ist die Zusammenfassungsfunktion von entscheidender Bedeutung. Erstellen wir am Ende unseres Dokuments eine Zusammenfassung.
 

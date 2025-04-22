@@ -63,7 +63,7 @@ Diese Antworten sind großartig, und Sie sind auf Ihr Vorstellungsgespräch vorb
 
 1. In demselben Copilot Chat-Fenster fordern Sie Copilot Folgendes auf: 
 
-    +++Erstellen Sie ein Word-Dokument mit dieser Ausgabe.+++
+    +++Erstelle ein Word-Dokument (.docx) mit dieser Ausgabe.+++
 
     Copilot generiert ein neues Word-Dokument mit dem Titel **FAQ-Dokument**.
 
