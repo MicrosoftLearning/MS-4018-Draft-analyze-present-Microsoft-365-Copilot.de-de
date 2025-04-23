@@ -13,7 +13,7 @@ Während dieses Labs erstellen wir Prompts für Microsoft 365 Copilot, die auf d
 
 
 
-#### Übung 1 – Entwurf Ihrer Inhalte
+#### Übung 1: Entwerfen Ihrer Inhalte
 
 Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse. Anschließend können wir diese Datei bearbeiten, um den Inhalt abzurufen, den wir für unseren Bericht benötigen.
 
@@ -23,7 +23,7 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Geben Sie den folgenden Prompt ein:
 
-    +++Erstellen Sie einen Projektbericht, der eine Zusammenfassung, eine Einführung, eine Produktbeschreibung, Projektziele und eine Diskussion enthält. Verwenden Sie das verknüpfte Dokument als Inhaltsressource.
+    +++Erstelle einen Projektbericht, der eine Zusammenfassung, eine Einleitung, Projektziele und eine Diskussion enthält. Verwenden Sie das verknüpfte Dokument als Inhaltsressource.
 
 1. Fügen Sie die Dokumentreferenz zu Ihrem Prompt hinzu, indem Sie manuell einen Schrägstrich gefolgt vom Dokumentnamen eingeben: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternativ können Sie **Verweis auf eine Datei** und die Datei aus der Dropdownliste auswählen, sobald sie in OneDrive verfügbar ist.
    
@@ -48,7 +48,7 @@ Erstellen wir einen Projektbericht mithilfe der bereits gesammelten Marktanalyse
 
 1. Überprüfen Sie die umgeschriebenen Optionen, wählen Sie diejenige aus, die Sie am meisten bevorzugen, und wählen Sie **Ersetzen**.
 
-#### Übung 2 – Konvertieren von Text in eine Tabelle
+#### Übung 2: Konvertieren von Text in eine Tabelle
 
 Während der Inhalt in Ihrem Dokument möglicherweise korrekt ist, sollten Sie die Lesbarkeit berücksichtigen. Würde ein Abschnitt besser funktionieren, wenn er als Tabelle dargestellt werden würde? Copilot kann Text mit Hilfe eines Prompts leicht in eine Tabelle umwandeln.
 
@@ -70,7 +70,7 @@ Sehen wir uns diese Transformation in Aktion an.
 
 1. Überprüfen Sie das Tabellenformat, und nehmen Sie alle erforderlichen Anpassungen vor.
 
-#### Übung 3 – Zusammenfassung Ihres Dokuments
+#### Übung 3: Zusammenfassung Ihres Dokuments
 
 Wenn Sie Ihr Dokument vervollständigen, sollten Sie darauf achten, dass Ihre wichtigsten Punkte klar und deutlich dargestellt werden. Dies ist eine gute Möglichkeit, eine Zusammenfassung des Dokuments anzuzeigen. Auch wenn Sie ein umfangreiches Word-Dokument erhalten, für das Sie keine Zeit haben, es vollständig zu lesen, ist die Zusammenfassungsfunktion von entscheidender Bedeutung. Erstellen wir am Ende unseres Dokuments eine Zusammenfassung.
 
